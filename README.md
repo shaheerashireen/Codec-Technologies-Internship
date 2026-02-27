@@ -1,15 +1,11 @@
-# Codec Tech Internship – Data Analytics Projects
+# 🚀 Codec Tech Internship – Business analyst Projects
 
-This repository contains projects completed during the Codec Tech Internship, focusing on business analytics and data-driven insights.
+This repository contains projects completed during the Codec Tech Internship, focused on applying data analytics techniques to generate business insights and predictive solutions.
 
-## Projects
+## 📂 Projects
 
-### Financial Forecasting
-Time series revenue forecasting using Python (SARIMA) and Excel.
-→ View Project Folder
+### Financial Forecasting  
+Time series revenue forecasting using Python (SARIMA) and Excel, including model validation and growth analysis.
 
-### Healthcare Data Analysis
-Patient data analysis using Python, SQL, and Tableau.
-→ View Project Folder
-
-Each project contains a detailed README explaining methodology, tools, and outcomes.
+### Healthcare Data Analysis  
+Patient data analysis using Python, SQL, and Tableau to identify patterns in medical conditions and treatment outcomes.
