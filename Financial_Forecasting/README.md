@@ -1,4 +1,4 @@
-# 📊 Retail Revenue Forecasting using SARIMA
+# Retail Revenue Forecasting using SARIMA
 
 ## Overview
 Built a time series forecasting model to predict monthly revenue using the Superstore retail sales dataset. Aggregated transactional data into monthly revenue and applied Seasonal ARIMA (SARIMA) to capture trend and 12-month seasonality.
