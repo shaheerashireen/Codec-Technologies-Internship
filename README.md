@@ -1,4 +1,4 @@
-# 🚀 Codec Tech Internship – Business analyst Projects
+# Codec Tech Internship – Business analyst Projects
 
 This repository contains projects completed during the Codec Tech Internship, focused on applying data analytics techniques to generate business insights and predictive solutions.
 
